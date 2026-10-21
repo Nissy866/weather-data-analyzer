@@ -12,13 +12,14 @@ A Python data analysis project that fetches one year of weather data for Mangala
 Python, Requests, Pandas, Matplotlib, Seaborn, Google Colab
 
 ## Key Insights
-- Hottest month: [your output]
-- Coolest month: [your output]
-- Rainiest month: [your output]
-- Total rainfall: [your output] mm
+- Hottest month: April
+- Coolest month: December
+- Rainiest month: October
+- Total rainfall: 1265.4 mm
 
 ## How to Run
-1. Open the notebook in Google Colab: [paste your Colab link]
+1. Open the notebook in Google Colab:https://colab.research.google.com/drive/1M3BzMAM426JkjdiLiazYnpmor8bTD6D7?usp=sharing
+ 
 2. Click Runtime → Run all
 
 ## Project Structure
